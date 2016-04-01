@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pho",
+				"phones"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"phoe",
+				"phonecatApp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1536,
+				"line_ending": "Windows",
+				"name": "var testapp = angular.module('bahn', []);"
+			}
+		},
+		{
+			"file": "/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/initialize.js",
+			"settings":
+			{
+				"buffer_size": 3310,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/searchBar.js",
+			"settings":
+			{
+				"buffer_size": 1978,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Niklas/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/Sublime/style.css",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/searchBarTest.js",
+		"/C/Users/Niklas/Documents/Neuer Ordner/app.js",
+		"/C/Users/Niklas/Documents/Neuer Ordner/style.css",
+		"/C/Users/Niklas/Documents/Neuer Ordner/index.html",
+		"/C/Users/Niklas/Documents/Neuer Ordner/appMap.js",
+		"/C/Users/Niklas/Documents/index.html",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/package.json",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/directions.js",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/index.html",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/searchBar.js",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/bower.json",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/initialize.js",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/style.css",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/ablage.js",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/indexTest.html",
+		"/C/Users/Niklas/Downloads/mapping-geo-shapes.html",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/connectivity_2015_09.geojson",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/connectivity_2015_09.geojson",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/AngularTs/angular2-tour-of-heroes/app/main.ts",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/AngularTest/package.json",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/02 Code/JSgoogleMaps/initialize.js",
+		"/C/Users/Niklas/Documents/ES/bahn_old.geojson",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/JavaScript/index.html",
+		"/C/Users/Niklas/Documents/ES/bahn.geojson",
+		"/C/Users/Niklas/Documents/bahn.geojson",
+		"/C/Users/Niklas/angular-google-maps/package.json",
+		"/C/Users/Niklas/Documents/connectivity_2015_09.geojson",
+		"/C/Users/Niklas/Documents/withoutMapping.json",
+		"/C/Users/Niklas/Documents/mapping_old.json",
+		"/C/Users/Niklas/Documents/mapping.json",
+		"/C/Users/Niklas/Documents/bahn_old.geojson",
+		"/C/Users/Niklas/Documents/Kibana/kibana-fullNestedSupport/NESTED_README.md",
+		"/C/Users/Niklas/angular-phonecat/app/index.html",
+		"/C/Users/Niklas/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Niklas/Documents/Kibana/kibana-fullNestedSupport/README.md",
+		"/C/Users/Niklas/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/Niklas/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/Niklas/Documents/Kibana/kibana-4.4.2-windows/config/kibana.yml",
+		"/C/Users/Niklas/Documents/Kibana/kibana-fullNestedSupport/config/kibana.yml",
+		"/C/Users/Niklas/angular-phonecat/app/js/app.js",
+		"/C/Users/Niklas/angular-phonecat/app/phones/phones.json",
+		"/C/Users/Niklas/angular-phonecat/test/karma.conf.js",
+		"/C/Users/Niklas/angular-phonecat/app/js/filters.js",
+		"/C/Users/Niklas/angular-phonecat/app/js/directives.js",
+		"/C/Users/Niklas/Documents/shakespeare.json",
+		"/C/Users/Niklas/angular-phonecat/app/js/services.js",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/01 Daten/Netzabdeckung/connectivity_2015_09.geojson",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/01 Daten/Elasticsearch/mapping.json",
+		"/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/01 Daten/Elasticsearch/bahn.geojson",
+		"/C/Users/Niklas/Documents/Docker/curl",
+		"/C/Users/Niklas/Downloads/map.geojson",
+		"/C/Users/Niklas/Documents/testMitArrays",
+		"/C/Users/Niklas/Downloads/connectivity_2015_09.geojson",
+		"/C/Users/Niklas/Documents/curl",
+		"/E/iTunes/iTunes/iTunes Library.xml",
+		"/C/Users/Niklas/Documents/Kitematic/elasticsearch/data/connectivity_2015_09.geojson"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10.624711788087545",
+			"e-plus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 1536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var testapp = angular.module('bahn', []);",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/initialize.js",
+					"settings":
+					{
+						"buffer_size": 3310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Niklas/Documents/Studium/6. Semester/BachelorThesis/Projekt/08 BeispielCode/JSgoogleMaps/searchBar.js",
+					"settings":
+					{
+						"buffer_size": 1978,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
