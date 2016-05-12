@@ -1,5 +1,3 @@
-/* complete Window Google Map*/
-
 html,
 body {
   height: 100%;
@@ -11,7 +9,7 @@ body {
 map {
   display: block;
   height: 100%;
-  width: 78%;
+  width: 79%;
 }
 
 .controls {
@@ -23,6 +21,15 @@ map {
   height: 32px;
   outline: none;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#provider-panel{
+  border: 2px solid transparent;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  font-size: 10px;
+  background-color: #fff;
+  font-family: Roboto;
+  width: 65px;
 }
 
 #origin-input,
@@ -45,23 +52,28 @@ map {
 #right-panel {
   font-family: 'Roboto','sans-serif';
   line-height: 30px;
-  padding-left: 10px;
-}
-
-#right-panel select, #right-panel input {
-  font-size: 15px;
-}
-
-#right-panel select {
-  width: 100%;
-}
-
-#right-panel i {
-  font-size: 12px;
 }
 
 #right-panel {
-  float: right;
-  width: 20%;
+height: 100%;
+float: right;
+width: 390px;
+overflow: auto;
 }
 
+#floating-panel {
+background: #fff;
+padding: 5px;
+font-size: 14px;
+font-family: Arial;
+border: 1px solid #ccc;
+box-shadow: 0 2px 2px rgba(33, 33, 33, 0.4);
+display: none;
+}
+
+@media print {
+#right-panel {
+  float: none;
+  width: auto;
+}
+}
