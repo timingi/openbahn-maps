@@ -10,10 +10,15 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script src="script/script.js"></script>
 </head>
-<body>
+  <body ng-controller="formController">
     <input id="origin-input" class="controls" type="text" placeholder="Enter an origin">
     <input id="destination-input" class="controls" type="text" placeholder="Enter a destination">
      <div id="right-panel"></div>
      <map id="map"></map>
-</body>
+     <div id="provider-panel">
+       <label ng-repeat="name in names">
+          <input type="checkbox" id="providerCheckbox" ng-model="name.selected" ng-click="updateSelection($index,names)" value="{{name.name}}">{{name.name}}</label>
+      <br><input type="checkbox" id="lteCheckbox" ng-model="lte.selected" ng-checked="true"><label>LTE</label>
+    </div>
+   </body>
 </html>
