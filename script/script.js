@@ -230,19 +230,18 @@ service.route({
 function compareRoute(directionResults){
 
   removePolylines();
-
-    var stepLength = directionResults.legs[0].steps.length;
+  var stepLength = directionResults.legs[0].steps.length;
   
-        for (var k = stepLength; k--;) {
-            routePath(directionResults.legs[0].steps[k].path, directionResults.legs[0].steps[k].path.length);
-       }
+    for (var k = stepLength; k--;) {
+      routePath(directionResults.legs[0].steps[k].path, directionResults.legs[0].steps[k].path.length);
+    }
 }
 
 function routePath(path,pathLength){
 
      for (var l = pathLength; l--;) {
-              routeTogeoJson(path[l]);
-         }
+       routeTogeoJson(path[l]);
+     }
 }
 
 function routeTogeoJson(path){
@@ -253,7 +252,7 @@ function routeTogeoJson(path){
       var bahnRadioCoordinates = geoJson.features[x].geometry.coordinates;  //iterate over the geoJson coordinates
       bahnRadioCoordinates = swapArrayValues(bahnRadioCoordinates); 
       compareGeoJson(bahnRadioCoordinates, path, x, bahnRadioCoordinates.length);
-    }
+     }
 }
 
 function compareGeoJson(bahnData,path,index,coordinatesLength){
